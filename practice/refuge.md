@@ -1,5 +1,8 @@
 # Taking Refuge [pali version]
 
+* time: 1-2 mins
+* ref: theravada buddhism [todo]()
+
 _NOTE: Each school/sect of Buddhism will have it's own version. This corresponds to a pali/theravada setting._
 
 ## Rationale
