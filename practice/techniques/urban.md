@@ -8,7 +8,7 @@ One key difficulty in sustaining practice is to integrate it in your daily life.
 ## Walking pace in the street or workplace
 
 * time: flexible
-* ref: personal
+* source: personal
 
 #### Rationale
 
@@ -41,7 +41,7 @@ Your answers are all yours to contemplate.
 ## Breathing at the supermarket
 
 * time: flexible
-* ref: personal
+* source: personal
 
 #### Rationale
 
