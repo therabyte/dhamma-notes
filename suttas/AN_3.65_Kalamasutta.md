@@ -217,3 +217,56 @@ _Prepared for SuttaCentral by Blake Walshe and Bhikkhu Sujato._
 > Sa kho so, bhante, ariyasāvako evaṃ averacitto evaṃ abyāpaj­jha­citto evaṃ asaṅki­liṭṭha­citto evaṃ visuddhacitto. Tassa diṭṭheva dhamme ime cattāro assāsā adhigatā honti.
 
 > Abhikkantaṃ, bhante … pe … ete mayaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāma dhammañca ­bhik­khu­saṅghañca. Upāsake no, bhante, bhagavā dhāretu ajjatagge pāṇupete saraṇaṃ gate”ti.
+
+
+## Notes
+
+### Crossing with other texts [wip]
+
+Looking in other texts for combinations of:
+- [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena]
+- [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā]
+- [bhabbarūpatāya], [samaṇo no garūti]
+
+#### AN&nbsp;3.36 -  Sāḷhasutta
+https://suttacentral.net/pi/an3.66
+
+> “Etha tumhe, sāḷhā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, sāḷhā, attanāva jāneyyātha ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha.
+
+
+#### AN&nbsp;4.193 - Bhaddiyasutta [pali](https://suttacentral.net/pi/an4.193)
+
+> “Etha tumhe, bhaddiya, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā ‘samaṇo no garū’ti. Yadā tumhe, bhaddiya, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, bhaddiya, pajaheyyātha.
+
+In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciplies of teachers of other sects"_ (B. Bodhi, AN, p567, see also note 907 ref to SN&nbsp;42.13 and MN&nbsp;56.8). The Buddha dispells how "some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]" by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
+
+This time the Buddha doesn't mention the four assurances. But he asks Baddhiya: _"did I say to you: 'Come, Bhaddiya, be my disciple and I will be your teacher'?"_. Bhaddiya says no. The emphasis seems to be on the choice Bhaddiya made to go to the Buddha for refuge on his own.
+
+After having said how beneficial it would be for basically everyone to convert that way (in note 911, B. Bodhi refers to MN&nbsp;56.26 at this point), at the very end of the sutta, there is this interesting paragraph:
+> "If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!" (B. Bodhi, AN 4.193, p 570)
+
+_Note: B.Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
+
+#### Cnd8 [pali](https://suttacentral.net/pi/cnd8)
+
+> Na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
+
+#### Cnd9 [pali](https://suttacentral.net/pi/cnd9)
+
+> Anītihanti na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ, taṃ kathayissāmīti—diṭṭhe dhamme anītihaṃ.
+
+#### Cnd12 [pali](https://suttacentral.net/pi/cnd12)
+
+>Sabbaṃ taṃ itihītihanti sabbaṃ taṃ itihītihaṃ itikirāya paraṃparāya piṭaka­sam­padāya takkahetu nayahetu ākāra­pari­vitak­kena diṭṭhi­nij­jhā­nak­khan­tiyā na sāmaṃ saya­ma­bhiñ­ñā­taṃ na attapaccak­kha­dhammaṃ kathayiṃsūti—sabbaṃ taṃ itihītihaṃ.
+
+#### Cnd22 [pali](https://suttacentral.net/pi/cnd22)
+
+> Sabbaṃ taṃ itihītihanti sabbaṃ taṃ itihītihaṃ itikirāya paramparāya piṭaka­sam­padāya takkahetu nayahetu ākāra­pari­vitak­kena diṭṭhi­nij­jhā­nak­khan­tiyā na sāmaṃ saya­ma­bhiñ­ñā­taṃ na attapaccakkhaṃ dhammaṃ yaṃ kathayiṃsūti—sabbaṃ taṃ itihītihaṃ.
+
+#### Mnd14 [pali](https://suttacentral.net/pi/mnd14)
+
+> Sakkhidhammaṃ parissa­ya­vinayanti. Sakkhidhammanti na itihitihaṃ, na itikirāya, na paramparāya, na piṭaka­sam­padāya, na takkahetu, na nayahetu, na ākāra­pari­vitak­kena, na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccakkhaṃ dhammanti
+
+#### Mnd16 [pali](https://suttacentral.net/pi/mnd16)
+
+> Yathā pajānanti yathā pajānaṃ yathā pajānanto ājānanto vijānanto paṭivijānanto paṭivijjhanto na itihitihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccakkhaṃ dhammaṃ, taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
