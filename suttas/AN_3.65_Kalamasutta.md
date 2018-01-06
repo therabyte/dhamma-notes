@@ -219,17 +219,14 @@ _Prepared for SuttaCentral by Blake Walshe and Bhikkhu Sujato._
 > Abhikkantaṃ, bhante … pe … ete mayaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāma dhammañca ­bhik­khu­saṅghañca. Upāsake no, bhante, bhagavā dhāretu ajjatagge pāṇupete saraṇaṃ gate”ti.
 
 
-## Notes
+## Common patterns [wip]
 
-### Crossing with other texts [wip]
+Looking in other texts for combinations of [matikas](../docs/matikas.md):
+- list 1: [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena]
+- list 2: [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā]
+- list 3: [bhabbarūpatāya], [samaṇo no garūti]
 
-Looking in other texts for combinations of:
-- [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena]
-- [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā]
-- [bhabbarūpatāya], [samaṇo no garūti]
-
-#### AN&nbsp;3.36 -  Sāḷhasutta
-https://suttacentral.net/pi/an3.66
+#### AN&nbsp;3.36 - Sāḷhasutta [pali](https://suttacentral.net/pi/an3.66)
 
 > “Etha tumhe, sāḷhā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, sāḷhā, attanāva jāneyyātha ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha.
 
@@ -261,6 +258,11 @@ After having said how beneficial it would be for basically everyone to convert t
 > "If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!" [B. Bodhi, AN, 2012, p 570]
 
 _Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
+
+
+### TODO
+
++ look for each individually
 
 #### Cnd8 [pali](https://suttacentral.net/pi/cnd8)
 
