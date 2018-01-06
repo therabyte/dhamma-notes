@@ -53,7 +53,7 @@ If you're into math, you might even start to compute which queue would be the sh
 
 And it might make you very angry at random people you don't even know, because they're too slow, because they're old or can't find change in their purse. That's how horrible we can get in the supermarket.
 
-So, this is the perfect moment to learn patience and practice mild loving kindness. Cause there's nothing else to do anyway.
+So, this is the perfect moment to **learn patience** and practice mild loving kindness. Cause there's nothing else to do anyway.
 
 #### Protocol
 
@@ -72,3 +72,29 @@ If something happens before you - someone taking more time than expected, someon
 You can also use that time to meditate on how you're just the same as everybody else.
 
 Force yourself to do that every time you encounter a queue, whether it's in the supermarket, at the post office, or even at the DMV (yeah, seriously). Take it as an opportunity to practice. Being stuck in the queue is offering you some spare time in your day to practice your mindfulness.
+
+
+
+## Subway Anapanasati + Mala [wip]
+
+* time: flexible
+* source: personal
+
+#### Rationale
+
+
+#### Protocol
+
+
+
+## Subway Vedana Practice [wip]
+
+* time: flexible
+* source: personal
+
+#### Rationale
+
+
+#### Protocol
+
+quand on est debout un peu comprime, Vedana pendant la canicule, desagreable au moment des stations car l áir stagne, mais ntre les stations l'air circule (au moins un peu), du coup il y a un soulagement agreable
