@@ -233,19 +233,34 @@ https://suttacentral.net/pi/an3.66
 
 > “Etha tumhe, sāḷhā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, sāḷhā, attanāva jāneyyātha ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha.
 
+This time the discourse is given by Venerable Nandaka to Salha and Rohana. Nandaka starts directly by saying to Salhla this paragraph seen in AN&nbsp;3.65 (_"Come, Salha, do not go by..."_).
+
+Then Nandaka unfolds the same reasoning as in AN&nbsp;3.65: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering.
+
+This time, greed [lobha] is said to mean "longing" [abhijjhā], and that longing leads to wrong deeds. Aversion [dosa] is said to mean "ill will" [byāpāda], idem. And delusion [moha] is said to mean "ignorance" [avijjā].
+
+In this sutta, Nandaka doesn't mention the four assurances. Instead, he says that the noble disciple, as a reward of abandoning greed, aversion, delusion, understands thus: _"There is this; there is the inferior; there is the superior; there is a further escape from whatever is involved with perception."_ And he is liberated from taints.
+note 462 ref to MN&nbsp;7.17 four divine abodes?
+
+[B. Bodhi, AN, 2012, note 462 p 1654] adds that the commentary (Anguttara Nikaya-atthakatha) establishes a relation between these four and the four noble truths:
+- "there is this": five aggregates, truth of suffering
+- "inferior": truth of the origin of suffering
+- "superior": truth of the path
+- "further escape": nibbana, truth of cessation
+
 
 #### AN&nbsp;4.193 - Bhaddiyasutta [pali](https://suttacentral.net/pi/an4.193)
 
 > “Etha tumhe, bhaddiya, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā ‘samaṇo no garū’ti. Yadā tumhe, bhaddiya, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, bhaddiya, pajaheyyātha.
 
-In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciplies of teachers of other sects"_ (B. Bodhi, AN, p567, see also note 907 ref to SN&nbsp;42.13 and MN&nbsp;56.8). The Buddha dispells how "some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]" by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
+In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciplies of teachers of other sects"_ ([B. Bodhi, AN, 2012, p567], see also note 907 ref to SN&nbsp;42.13 and MN&nbsp;56.8). The Buddha dispells how "some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]" by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
 
 This time the Buddha doesn't mention the four assurances. But he asks Baddhiya: _"did I say to you: 'Come, Bhaddiya, be my disciple and I will be your teacher'?"_. Bhaddiya says no. The emphasis seems to be on the choice Bhaddiya made to go to the Buddha for refuge on his own.
 
 After having said how beneficial it would be for basically everyone to convert that way (in note 911, B. Bodhi refers to MN&nbsp;56.26 at this point), at the very end of the sutta, there is this interesting paragraph:
-> "If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!" (B. Bodhi, AN 4.193, p 570)
+> "If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!" [B. Bodhi, AN, 2012, p 570]
 
-_Note: B.Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
+_Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
 
 #### Cnd8 [pali](https://suttacentral.net/pi/cnd8)
 
