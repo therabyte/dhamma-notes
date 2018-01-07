@@ -221,12 +221,25 @@ _Prepared for SuttaCentral by Blake Walshe and Bhikkhu Sujato._
 
 ## Common patterns [wip]
 
-Looking in other texts for combinations of [matikas](../docs/matikas.md):
+### "Don't go by..."
+
+We're focusing here on this sentence:
+> Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā samaṇo no garūti.
+
+We're looking in other texts for combinations of those three [lists/matikas](../docs/matikas.md):
 - list 1: [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena]
 - list 2: [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā]
 - list 3: [bhabbarūpatāya], [samaṇo no garūti]
 
+| Queries | Results |
+| :-- | :-- |
+| [takkahetu](https://suttacentral.net/search?query=takkahetu) | todo |
+| [nayahetu](https://suttacentral.net/search?query=nayahetu&lang=) | todo |
+| [ākāra­pari­vitak­kena](https://suttacentral.net/search?query=%C4%81k%C4%81ra%C2%ADpari%C2%ADvitak%C2%ADkena&lang=) | todo | [diṭṭhi­nij­jhā­nak­khan­tiyā](https://suttacentral.net/search?query=di%E1%B9%AD%E1%B9%ADhi%C2%ADnij%C2%ADjh%C4%81%C2%ADnak%C2%ADkhan%C2%ADtiy%C4%81&lang=) | todo |
+
 #### AN&nbsp;3.36 - Sāḷhasutta [pali](https://suttacentral.net/pi/an3.66)
+
+Found(10): [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], [bhabbarūpatāya], [samaṇo no garūti]
 
 > “Etha tumhe, sāḷhā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, sāḷhā, attanāva jāneyyātha ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha.
 
@@ -248,6 +261,8 @@ note 462 ref to MN&nbsp;7.17 four divine abodes?
 
 #### AN&nbsp;4.193 - Bhaddiyasutta [pali](https://suttacentral.net/pi/an4.193)
 
+Found(10): [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], [bhabbarūpatāya], [samaṇo no garūti]
+
 > “Etha tumhe, bhaddiya, mā anussavena, mā paramparāya, mā itikirāya, mā piṭaka­sam­padā­nena, mā takkahetu, mā nayahetu, mā ākāra­pari­vitak­kena, mā diṭṭhi­nij­jhā­nak­khan­tiyā, mā bhabbarūpatāya, mā ‘samaṇo no garū’ti. Yadā tumhe, bhaddiya, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, bhaddiya, pajaheyyātha.
 
 In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciplies of teachers of other sects"_ ([B. Bodhi, AN, 2012, p567], see also note 907 ref to SN&nbsp;42.13 and MN&nbsp;56.8). The Buddha dispells how "some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]" by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
@@ -259,31 +274,52 @@ After having said how beneficial it would be for basically everyone to convert t
 
 _Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
 
+#### TODO
 
-### TODO
-
-+ look for each individually
 
 #### Cnd8 [pali](https://suttacentral.net/pi/cnd8)
+
+Found(7): ~~[anussavena]~~, [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garūti]~~
 
 > Na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
 
 #### Cnd9 [pali](https://suttacentral.net/pi/cnd9)
 
+Found(7): ~~[anussavena]~~, [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garūti]~~
+
 > Anītihanti na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ, taṃ kathayissāmīti—diṭṭhe dhamme anītihaṃ.
 
 #### Cnd12 [pali](https://suttacentral.net/pi/cnd12)
+
+Found(7): ~~[anussavena]~~, [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garūti]~~
 
 >Sabbaṃ taṃ itihītihanti sabbaṃ taṃ itihītihaṃ itikirāya paraṃparāya piṭaka­sam­padāya takkahetu nayahetu ākāra­pari­vitak­kena diṭṭhi­nij­jhā­nak­khan­tiyā na sāmaṃ saya­ma­bhiñ­ñā­taṃ na attapaccak­kha­dhammaṃ kathayiṃsūti—sabbaṃ taṃ itihītihaṃ.
 
 #### Cnd22 [pali](https://suttacentral.net/pi/cnd22)
 
+Found(7): ~~[anussavena]~~, [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garūti]~~
+
 > Sabbaṃ taṃ itihītihanti sabbaṃ taṃ itihītihaṃ itikirāya paramparāya piṭaka­sam­padāya takkahetu nayahetu ākāra­pari­vitak­kena diṭṭhi­nij­jhā­nak­khan­tiyā na sāmaṃ saya­ma­bhiñ­ñā­taṃ na attapaccakkhaṃ dhammaṃ yaṃ kathayiṃsūti—sabbaṃ taṃ itihītihaṃ.
 
 #### Mnd14 [pali](https://suttacentral.net/pi/mnd14)
+
+Found(7): ~~[anussavena]~~, [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garūti]~~
 
 > Sakkhidhammaṃ parissa­ya­vinayanti. Sakkhidhammanti na itihitihaṃ, na itikirāya, na paramparāya, na piṭaka­sam­padāya, na takkahetu, na nayahetu, na ākāra­pari­vitak­kena, na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccakkhaṃ dhammanti
 
 #### Mnd16 [pali](https://suttacentral.net/pi/mnd16)
 
+Found(7): ~~[anussavena]~~, [paramparāya], [itikirāya], [piṭaka­sam­padā­nena], [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garūti]~~
+
 > Yathā pajānanti yathā pajānaṃ yathā pajānanto ājānanto vijānanto paṭivijānanto paṭivijjhanto na itihitihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccakkhaṃ dhammaṃ, taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
+
+### "When you know for yourselves..."
+
++ check for "you know for yourselves"
+
+> Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.
+
+| Queries | Results |
+| :-- | :-- |
+| ["attanāva jāneyyātha"](https://suttacentral.net/search?query=%22attan%C4%81va+j%C4%81neyy%C4%81tha%22&lang=) | the only results are AN&nbsp;3.35, AN&nbsp;3.36, AN&nbsp;4.193 (see above) |
+| ["dhammā akusalā"](https://suttacentral.net/search?query=%22dhamm%C4%81+akusal%C4%81%22&lang=) | todo |
