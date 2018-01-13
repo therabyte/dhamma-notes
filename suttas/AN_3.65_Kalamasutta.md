@@ -237,6 +237,11 @@ Findings:
 - list 1 is included in a list of "five grounds for the acceptance of a thesis", criticized in SN12.68, SN35.153, MN102, MN76, MN95: faith [saddhā], personal preference [ruci], oral tradition [anussavā], reasoned reflexion [ākāraparivitakkā], acceptance of a view after pondering itth [diṭṭhinijjhānakkhanti]
 - these expression are related to a larger argument around the access knowledge, how to claim knowledge.
 
+Below is a visualization of co-occurences between those terms:
+
+![visualization of co-occurences](img/matikaviz-10-acceptance-thesis.png)
+
+
 ### B. "When you know for yourselves..."
 
 We're focusing here on this sentence:
