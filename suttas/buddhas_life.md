@@ -31,7 +31,7 @@
 | MN&nbsp;4.29-30, MN&nbsp;36.40-41  | Gotama contemplates all beings past passing away and reappearing, attains second true knowledge.  | [1][2] |
 | MN&nbsp;4.31-33, MN&nbsp;36.42-44  | Gotama contemplates the four noble truths, attains the third true knowledge and arahantship.      | [1][2] |
 | Ud&nbsp;1.3      | The Buddha investigates the laws of cause-and-effect.                                  | [1]    |
-| SN&nbsp;12.65    | At Savatthi, the Bodhisatta Gotama realizes the nature of dependent origination.       | [2]    |
+| SN&nbsp;12.65    | The Bodhisatta Gotama realizes the nature of dependent origination.                    | [2]    |
 | SN&nbsp;6.1, MN&nbsp;26.19         | He wonders: Should I teach this Dhamma to others?                    | [1][2] |
 | SN&nbsp;6.1, MN&nbsp;26.20-21      | Brahma Sahampati pleads for the Buddha to teach the Dhamma, the Buddha accepts.                   | [1][2] |
 | SN&nbsp;6.2      | He wonders: Whom should I revere as my teacher?                                        | [1]    |
@@ -51,5 +51,5 @@
 -->
 
 [1] [Access To Insight](https://www.accesstoinsight.org/ptf/buddha.html).
-[2] Following along [Bhikkhu Bodhi's systematic study of the Majjhima Nikaya(http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html).
+[2] Following along [Bhikkhu Bodhi's systematic study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html).
 [3] [Bhikkhu Nanamoli, Life of the Buddha according to the Pali Canon](https://www.amazon.com/Life-Buddha-According-Pali-Canon/dp/1928706126)
