@@ -18,7 +18,7 @@ If the lists and schedules that we have been considering are matikas, then someo
 
 ### Examples of matikas in the theravada tradition
 
-Lists constitutive of the Samyuttanikaya according to [\[Gethin, 1992 p. 162\]](@Gethin1992) (core matikas):
+Lists constitutive of the Samyuttanikaya according to [\[Gethin, 1992 p. 162\]][@Gethin1992] (core matikas):
 - The five aggregates
 - The six sense spheres
 - The twelwe links of dpendeng arising
@@ -30,7 +30,7 @@ Lists constitutive of the Samyuttanikaya according to [\[Gethin, 1992 p. 162\]](
 - The seven factors of awakening
 - The noble eightfold path
 
-> [\[Gethin, 1992 p. 164\]](@Gethin1992) In considering the Dhammasangani and Vibhanga it is not unhelpful [...] to see the triplet-couplet matika and the core matika as acting like the two axes of the Abhidhamma method. [...] The Dhammasangani treats the core matikas by way of the triplet-couplet matika [and the Vibhanga does the inverse].
+> [\[Gethin, 1992 p. 164\]][@Gethin1992] In considering the Dhammasangani and Vibhanga it is not unhelpful [...] to see the triplet-couplet matika and the core matika as acting like the two axes of the Abhidhamma method. [...] The Dhammasangani treats the core matikas by way of the triplet-couplet matika [and the Vibhanga does the inverse].
 
 
 

@@ -21,7 +21,7 @@ What medication cannot do:
 
 Besides, beware of applying too much psychology into it. Psychology has been developed in a completely different cultural context. If your motivation stays on a psychological level (well being, problems to solve with your relatives, etc), it will work to some extent but you may not be receiving the fruits of a true transformation of the self.
 
-_"The purpose of Buddhism is not stress relief. Buddha did not teach a method to help busy executives survive better in the rat race."_, David Brazier, ["It Needs Saying"](http://www.tricycle.com/blog/it-needs-saying), Tricycle, May 30 2015
+> _"The purpose of Buddhism is not stress relief. Buddha did not teach a method to help busy executives survive better in the rat race."_, David Brazier, ["It Needs Saying"](http://www.tricycle.com/blog/it-needs-saying), Tricycle, May 30 2015
 
 On some level of understanding, meditation does not, ultimately, solve our individual problems (big or small), because it let us see how we are not just one individual. And if we're clinging to being one individual, it may distract us from the real and beneficial practice. (In short, it's not about yourself, when your self cease to exist).
 
