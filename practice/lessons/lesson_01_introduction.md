@@ -1,4 +1,8 @@
-# Lesson 1 - Introduction
+# Lesson 1 - Introduction [wip]
+
+**By the end of this lesson, you should be able to:**
+- name some reasons to start meditation
+- name the different categories of meditation practice and provide examples for each
 
 ## Why Meditate?
 
@@ -12,7 +16,7 @@ What meditation can do:
 
 What medication cannot do:
 - Nobody becomes a hero by meditation. It **does not give super powers**. You don't become an exceptional and unique being, especially because meditation is a way to deflate ego.
-- It **will not cure a serious disease**... but it will ease the suffering, the pain or the fear related to this disease, and thus can help you fight against it by relieving their influence on you.
+- It **will not cure a serious disease**... but it can ease the suffering, the pain or the fear related to this disease, and thus can help you fight against it by relieving their influence on you.
 - Not really sure it can really help in cases of serious depression, aggravated psychosis or any severe mental trouble.
 
 Besides, beware of applying too much psychology into it. Psychology has been developed in a completely different cultural context. If your motivation stays on a psychological level (well being, problems to solve with your relatives, etc), it will work to some extent but you may not be receiving the fruits of a true transformation of the self.
