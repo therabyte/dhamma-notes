@@ -7,6 +7,7 @@
 
 
 ### Defining matikas
+
 > [\[Gethin, 1992\]][@Gethin1992] A monk is "one who has heard much, one to whom the tradition has been handed down, learned in the Dharma [dhamma.dhana], learned in the vinaya [vinaya.dhana], learned in the matika [matika.dhana].  
 It would appear, then, that a matika can be **any schedule or table of terms or lists**, but especially one **built up according to a system of numerical progression, that acts as a basis for further exposition**.
 
